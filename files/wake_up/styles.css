@@ -160,7 +160,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -174,7 +174,7 @@
   width:190px;
   height:68px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -209,7 +209,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -223,7 +223,7 @@
   width:190px;
   height:68px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -255,7 +255,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Oswald-ExtraLight', 'Oswald ExtraLight', 'Oswald';
+  font-family:'Oswald-ExtraLight', 'Oswald ExtraLight', 'Oswald', sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:120px;
@@ -269,7 +269,7 @@
   width:95px;
   height:178px;
   display:flex;
-  font-family:'Oswald-ExtraLight', 'Oswald ExtraLight', 'Oswald';
+  font-family:'Oswald-ExtraLight', 'Oswald ExtraLight', 'Oswald', sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:120px;
@@ -301,7 +301,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Oswald-ExtraLight', 'Oswald ExtraLight', 'Oswald';
+  font-family:'Oswald-ExtraLight', 'Oswald ExtraLight', 'Oswald', sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:90px;
@@ -315,7 +315,7 @@
   width:71px;
   height:133px;
   display:flex;
-  font-family:'Oswald-ExtraLight', 'Oswald ExtraLight', 'Oswald';
+  font-family:'Oswald-ExtraLight', 'Oswald ExtraLight', 'Oswald', sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:90px;
@@ -347,7 +347,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Oswald-ExtraLight', 'Oswald ExtraLight', 'Oswald';
+  font-family:'Oswald-ExtraLight', 'Oswald ExtraLight', 'Oswald', sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:50px;
@@ -361,7 +361,7 @@
   width:40px;
   height:74px;
   display:flex;
-  font-family:'Oswald-ExtraLight', 'Oswald ExtraLight', 'Oswald';
+  font-family:'Oswald-ExtraLight', 'Oswald ExtraLight', 'Oswald', sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:50px;
@@ -431,7 +431,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -446,7 +446,7 @@
   width:24px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -479,7 +479,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -494,7 +494,7 @@
   width:17px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -527,7 +527,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -542,7 +542,7 @@
   width:59px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -575,7 +575,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -590,7 +590,7 @@
   width:23px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -792,7 +792,7 @@
   width:348px;
   height:282px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-style:normal;
   font-size:29px;
 }
@@ -825,7 +825,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -839,7 +839,7 @@
   width:298px;
   height:68px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -874,7 +874,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -888,7 +888,7 @@
   width:190px;
   height:68px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -928,7 +928,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -943,7 +943,7 @@
   width:24px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -976,7 +976,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -991,7 +991,7 @@
   width:17px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -1024,7 +1024,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -1039,7 +1039,7 @@
   width:59px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -1072,7 +1072,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -1087,7 +1087,7 @@
   width:23px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -1289,7 +1289,7 @@
   width:348px;
   height:282px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-style:normal;
   font-size:29px;
 }
@@ -1322,7 +1322,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -1336,7 +1336,7 @@
   width:298px;
   height:68px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -1371,7 +1371,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -1385,7 +1385,7 @@
   width:190px;
   height:68px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -1425,7 +1425,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -1440,7 +1440,7 @@
   width:24px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -1473,7 +1473,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -1488,7 +1488,7 @@
   width:17px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -1521,7 +1521,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -1536,7 +1536,7 @@
   width:59px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -1569,7 +1569,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -1584,7 +1584,7 @@
   width:23px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -1785,7 +1785,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Montserrat-Regular', 'Montserrat';
+  font-family:'Montserrat-Regular', 'Montserrat', sans-serif;
   font-weight:400;
   font-style:normal;
 }
@@ -1797,7 +1797,7 @@
   width:140px;
   height:65px;
   display:flex;
-  font-family:'Montserrat-Regular', 'Montserrat';
+  font-family:'Montserrat-Regular', 'Montserrat', sans-serif;
   font-weight:400;
   font-style:normal;
 }
@@ -1942,7 +1942,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Montserrat-Regular', 'Montserrat';
+  font-family:'Montserrat-Regular', 'Montserrat', sans-serif;
   font-weight:400;
   font-style:normal;
 }
@@ -1954,7 +1954,7 @@
   width:212px;
   height:88px;
   display:flex;
-  font-family:'Montserrat-Regular', 'Montserrat';
+  font-family:'Montserrat-Regular', 'Montserrat', sans-serif;
   font-weight:400;
   font-style:normal;
 }
@@ -2153,7 +2153,7 @@
   width:348px;
   height:282px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-style:normal;
   font-size:29px;
 }
@@ -2186,7 +2186,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -2200,7 +2200,7 @@
   width:298px;
   height:68px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -2235,7 +2235,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -2249,7 +2249,7 @@
   width:190px;
   height:68px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -2289,7 +2289,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -2304,7 +2304,7 @@
   width:24px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -2337,7 +2337,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -2352,7 +2352,7 @@
   width:17px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -2385,7 +2385,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -2400,7 +2400,7 @@
   width:59px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -2433,7 +2433,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -2448,7 +2448,7 @@
   width:23px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -2650,7 +2650,7 @@
   width:348px;
   height:282px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-style:normal;
   font-size:29px;
 }
@@ -2688,7 +2688,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -2703,7 +2703,7 @@
   width:24px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -2736,7 +2736,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -2751,7 +2751,7 @@
   width:17px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -2784,7 +2784,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -2799,7 +2799,7 @@
   width:59px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -2832,7 +2832,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -2847,7 +2847,7 @@
   width:23px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -2883,7 +2883,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -2897,7 +2897,7 @@
   width:298px;
   height:68px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -2932,7 +2932,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -2946,7 +2946,7 @@
   width:190px;
   height:68px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -3146,7 +3146,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Montserrat-Regular', 'Montserrat';
+  font-family:'Montserrat-Regular', 'Montserrat', sans-serif;
   font-weight:400;
   font-style:normal;
 }
@@ -3158,7 +3158,7 @@
   width:140px;
   height:65px;
   display:flex;
-  font-family:'Montserrat-Regular', 'Montserrat';
+  font-family:'Montserrat-Regular', 'Montserrat', sans-serif;
   font-weight:400;
   font-style:normal;
 }
@@ -3303,7 +3303,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Montserrat-Regular', 'Montserrat';
+  font-family:'Montserrat-Regular', 'Montserrat', sans-serif;
   font-weight:400;
   font-style:normal;
 }
@@ -3315,7 +3315,7 @@
   width:212px;
   height:88px;
   display:flex;
-  font-family:'Montserrat-Regular', 'Montserrat';
+  font-family:'Montserrat-Regular', 'Montserrat', sans-serif;
   font-weight:400;
   font-style:normal;
 }

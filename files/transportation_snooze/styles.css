@@ -156,7 +156,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -171,7 +171,7 @@
   width:106px;
   height:46px;
   display:flex;
-  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS';
+  font-family:'ComicSansMS-Bold', 'Comic Sans MS Bold', 'Comic Sans MS', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:33px;
@@ -294,7 +294,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:23px;
@@ -307,7 +307,7 @@
   width:202px;
   height:66px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:23px;
@@ -338,7 +338,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:23px;
@@ -351,7 +351,7 @@
   width:202px;
   height:66px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:23px;
@@ -382,7 +382,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -395,7 +395,7 @@
   width:202px;
   height:66px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -426,7 +426,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:30px;
@@ -440,7 +440,7 @@
   width:449px;
   height:42px;
   display:flex;
-  font-family:'ComicSansMS', 'Comic Sans MS';
+  font-family:'ComicSansMS', 'Comic Sans MS', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:30px;

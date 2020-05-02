@@ -324,9 +324,9 @@
         // this style INCLUDES the object's my style
         var compoundStyle = $.extend({}, diagramObject.style, adaptiveStyle);
 
-        if (diagramObject.owner.type == 'Axure:Master' && diagramObject.adaptiveStyles) {
-            adaptiveStyle = $ax.style.computeFullStyle(elementId, state, viewId);
-        }
+        // if (diagramObject.owner.type == 'Axure:Master' && diagramObject.adaptiveStyles) {
+        //     adaptiveStyle = $ax.style.computeFullStyle(elementId, state, viewId);
+        // }
 
         if(!diagramObject.isContained) {
             $ax.style.setAdaptiveStyle(elementId, adaptiveStyle);
@@ -472,13 +472,12 @@
 
             if (data.scale != 0) {
                 var adjustScrollScale = false;
-                if ($('html').getNiceScroll().length == 0 && !MOBILE_DEVICE && !SAFARI) {
+                if ($('html').getNiceScroll().length == 0 && !MOBILE_DEVICE) {
                     //adding nicescroll so width is correct when getting scale
                     _addNiceScroll($('html'), { emulatetouch: false, horizrailenabled: false });
                     adjustScrollScale = true;
                 }
-                if (!MOBILE_DEVICE && SAFARI) _removeNiceScroll($('html'));
-
+                
                 $('html').css('overflow-x', 'hidden');
 
                 var bodyWidth = $body.width();
